@@ -12,5 +12,8 @@ aluminum-foil shim was needed to make the spacing come out
 right, and there were other print quality issues. It is
 believed that this iteration fixes things.
 
+There is one sketch in the FreeCAD file that is a reference
+sketch for construction purposes only.
+
 This work is licensed under the "MIT License". Please see
 the file COPYING in this distribution for license details.
